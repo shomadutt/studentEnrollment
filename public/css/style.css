@@ -1,0 +1,18 @@
+.container {
+    width: 80%;
+}
+
+#button {
+    color: white !important;
+    background-color: #ffaa00 !important;
+    float: right;
+}
+
+h3 {
+    text-align: center;
+}
+
+#studentAdd {
+    color: red;
+    font-weight: bold;
+}
